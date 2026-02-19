@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f6f8;
+    background-color: yellow;
     margin: 20px;
 }
 
@@ -20,5 +20,3 @@ p, li {
 ul {
     list-style-type: square;
 }
-
-
